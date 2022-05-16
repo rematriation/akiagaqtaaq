@@ -1,6 +1,6 @@
 ### Default configuration ###
 # provide your domain here
-baseURL = "https://akiagaqtaaq.nelify.app"
+baseURL = "https://akiagaqtaaq.netlify.app"
 languageCode = 'en-us'
 # theme
 theme = "akiagaqtaaq"
