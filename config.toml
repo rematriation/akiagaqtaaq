@@ -67,8 +67,8 @@ copyright = "Copyright &copy; 2022"
 
 # banner
 [Languages.en.params.banner]
-title = "The Rematriation Project's Documentation"
-subtitle = "Find advice and answers from our support team fast or get in touch"
+title = "Rematriation Documentation"
+subtitle = "Restoring & Sharing Inuit Knowledges"
 bg_image = "images/geo_bg.png"
 placeholder = "Have a question? Just ask here or enter terms"
 
